@@ -1,4 +1,3 @@
-
 setreadonly(string,false)
 function string.split(str, seperator)
        if seperator == nil then
